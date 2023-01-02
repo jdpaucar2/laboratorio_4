@@ -21,11 +21,11 @@
 
 **1.1  OBJETIVO GENERAL**
 
-* 
+* Analizar el teorema de superposicion  aplicandolo a un circuito sencillos en el cual se va a calcular  el voltaje de una resistencia y la intenciada que existe en la segunda malla de este circuito, con ayuda de esto se van a completar dos tablas (intensidad y voltaje)  tomando en cuenta tres valores uno donde las dos fuentes de voltaje esten en funcionamineto y las dos siguientes donde uno de los  dos voltajes van a valer cero.
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-*
+* Realizar los analisis matematido para calcular el voltaje y la intensdidad solicitados para completar las tablas
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
