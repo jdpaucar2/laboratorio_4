@@ -93,7 +93,9 @@
 
 // CALCULOS EXPLICADOS 
 
+![image](https://user-images.githubusercontent.com/116772918/210270697-9ffbf18c-2990-4a4b-acec-e224f5aacc77.png)
 
+![image](https://user-images.githubusercontent.com/116772918/210270714-98e8ac25-2ace-4d4a-a6d0-8d953d598385.png)
 
 
 
