@@ -25,14 +25,21 @@
 
 **1.2  OBJETIVOS ESPECIFICOS**
 
-* Realizar los analisis matematido para calcular el voltaje y la intensdidad solicitados para completar las tablas
+* Realizar los analisis matematido para calcular el voltaje y la intensdidad solicitados para completar las tablas.
+* Demostrar el teorema de la superposición.
+* Analizar los distintos resultados que se obtienen con cada una de las fuentes de voltaje
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2. MARCO TEORICO**
 
-*
+ ![image](https://user-images.githubusercontent.com/93800511/147184271-ce008cf3-a28f-4638-9cbf-5f8badd2e48d.png)
 
 
+![image](https://user-images.githubusercontent.com/116772918/210189192-e6fb262d-04da-4b8c-9d03-0fa276d1427b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/116772918/210189336-f0fdd7a9-f986-436d-ae14-b63674dc8930.png)
 
 
 
