@@ -89,6 +89,7 @@
 
 
 
+![1fb8c75e-9327-4a43-851b-03a0904b4a16](https://user-images.githubusercontent.com/116772918/210404105-73193ee5-70b8-472a-8efc-8a0fe85c6ab7.jpg)
 
 
 // CALCULOS EXPLICADOS 
@@ -97,7 +98,11 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/210270714-98e8ac25-2ace-4d4a-a6d0-8d953d598385.png)
 
-![image](https://user-images.githubusercontent.com/116772918/210403772-aa4f4a79-f0b0-4242-ba05-04096052ec12.png)
+
+![image](https://user-images.githubusercontent.com/116772918/210404142-d5ffee05-a212-49c2-9202-a0fe017e79bd.png)
+
+
+
 
 ![image](https://user-images.githubusercontent.com/116772918/210403896-117a1793-8ae6-4260-883a-63b556451fdb.png)
 
