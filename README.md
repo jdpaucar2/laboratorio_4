@@ -94,7 +94,7 @@
 
 // CALCULOS EXPLICADOS 
 
-![image](https://user-images.githubusercontent.com/116772918/210270697-9ffbf18c-2990-4a4b-acec-e224f5aacc77.png)
+
 
 ![image](https://user-images.githubusercontent.com/116772918/210270714-98e8ac25-2ace-4d4a-a6d0-8d953d598385.png)
 
@@ -103,14 +103,7 @@
 
 
 
-
-![image](https://user-images.githubusercontent.com/116772918/210403896-117a1793-8ae6-4260-883a-63b556451fdb.png)
-
-![image](https://user-images.githubusercontent.com/116772918/210403951-0ad9dd78-9f45-4631-b025-42216bf39131.png)
-
-
-
-![image](https://user-images.githubusercontent.com/116835707/210307526-e7bf2f93-e0c6-463e-b3d3-dc2821ed2244.png)
+![image](https://user-images.githubusercontent.com/116772918/210270697-9ffbf18c-2990-4a4b-acec-e224f5aacc77.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
