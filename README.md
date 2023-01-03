@@ -89,21 +89,13 @@
 
 
 
-![1fb8c75e-9327-4a43-851b-03a0904b4a16](https://user-images.githubusercontent.com/116772918/210404105-73193ee5-70b8-472a-8efc-8a0fe85c6ab7.jpg)
-
-
 // CALCULOS EXPLICADOS 
 
+![fe2c4d76-2d78-49b4-84f2-2c68c86ed9ef](https://user-images.githubusercontent.com/116772918/210405129-2700719f-a24a-4d2f-9d07-97e4266e4595.jpg)
+
+![1fb8c75e-9327-4a43-851b-03a0904b4a16](https://user-images.githubusercontent.com/116772918/210405174-44a35ff7-1d29-410b-8548-65ecf3a90039.jpg)
 
 
-![image](https://user-images.githubusercontent.com/116772918/210270714-98e8ac25-2ace-4d4a-a6d0-8d953d598385.png)
-
-
-![image](https://user-images.githubusercontent.com/116772918/210404142-d5ffee05-a212-49c2-9202-a0fe017e79bd.png)
-
-
-
-![image](https://user-images.githubusercontent.com/116772918/210270697-9ffbf18c-2990-4a4b-acec-e224f5aacc77.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -115,7 +107,7 @@ https://youtu.be/1Gh1ZN1-Q98
 
 **6. CONCLUSIONES**
 
-
+En conclucion el metodo de superposicion para el análisis de los circuitos es comprobable por medio de esta practica donde la precencia de dos fuentes de poder, así comprobando que el voltaje o corriente dentro de este tipo de circuitos se puede encontrar aislando una de las corrientes y calculando los componentes individualmente con la otra fuente igualada a cero.
 
 ------------------
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
