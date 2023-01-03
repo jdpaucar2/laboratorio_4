@@ -101,8 +101,8 @@
 // TABLAS
 
 
+![image](https://user-images.githubusercontent.com/116772918/210408861-f17e13c9-1d26-4bc2-838b-9a93273a76b4.png)
 
- ![image](https://user-images.githubusercontent.com/116772918/210408019-f5775ace-b130-4a35-93c5-a051285d7d1b.png)
 
 
 
