@@ -97,6 +97,12 @@
 
 ![image](https://user-images.githubusercontent.com/116772918/210270714-98e8ac25-2ace-4d4a-a6d0-8d953d598385.png)
 
+![image](https://user-images.githubusercontent.com/116772918/210403772-aa4f4a79-f0b0-4242-ba05-04096052ec12.png)
+
+![image](https://user-images.githubusercontent.com/116772918/210403896-117a1793-8ae6-4260-883a-63b556451fdb.png)
+
+![image](https://user-images.githubusercontent.com/116772918/210403951-0ad9dd78-9f45-4631-b025-42216bf39131.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/116835707/210307526-e7bf2f93-e0c6-463e-b3d3-dc2821ed2244.png)
@@ -113,7 +119,8 @@ https://youtu.be/1Gh1ZN1-Q98
 
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------![1fb8c75e-9327-4a43-851b-03a0904b4a16](https://user-images.githubusercontent.com/116772918/210403906-e922b02f-df0b-4903-bb31-456d1c4af1c5.jpg)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **7. BIBLIOGRAFÍA**
 * Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall
